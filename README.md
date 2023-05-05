@@ -22,7 +22,7 @@ tool options:
 [3] get attached usb history
 
 installtion:
-wget 
+git clone https://github.com/0xkr3pt0n/AutoLinuxF.git 
 chmod +x forensics.sh
 
 Note : Best Practise is to use this tool from external storage device.
