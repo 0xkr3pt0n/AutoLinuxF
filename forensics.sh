@@ -23,8 +23,8 @@ memoryAcquire(){
 if [ $(id -u) == 0 ]
 then
 echo "[*] Memory Imaging ..."
-chmod +x avml
-sudo ./avml MemoryImage.mem
+chmod +x ./memory
+sudo ./memory MemoryImage.mem
 else
 echo "this option requires root privillage, please re-run the script with sudo"
 fi
@@ -59,7 +59,7 @@ fi
 
 if [ "$1" == 2 ]
 then
-cd $2
+
 memoryAcquire
 echo "Output : $2/MemoryImage.mem"
 fi
