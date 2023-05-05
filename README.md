@@ -14,7 +14,18 @@ output generated :
 
 ![cap3](https://user-images.githubusercontent.com/72657072/236493222-854b0850-8d4d-4848-8593-e09b9e6200df.PNG)
 
+Memory Imaging :
+
+![memory](https://user-images.githubusercontent.com/72657072/236497650-1a74642c-c09a-487d-96c4-2adcc1662b12.png)
+
+output generated
+
+![memory2](https://user-images.githubusercontent.com/72657072/236497698-83217e8a-b239-4507-95a1-eba50031b342.PNG)
+
+
+
 tool options:
+
 [1] get system information
 
 [2] get memory image
