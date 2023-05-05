@@ -36,8 +36,10 @@ installtion:
 
 git clone https://github.com/0xkr3pt0n/AutoLinuxF.git 
 
+cd AutoLinuxF
+
 chmod +x forensics.sh
 
+./forensics.sh
 
 Note : Best Practise is to use this tool from external storage device.
-
