@@ -1,5 +1,5 @@
 # AutoLinuxF
-automation script for Linux live acquisition 
+automation script for Linux live forensic acquisition 
 
 usage : ./forensics.sh option case name
 
